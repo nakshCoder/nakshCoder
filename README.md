@@ -21,9 +21,10 @@
   />
 </p>
 
-- 🌱 I’m currently learning **React JS** - 👨‍💻 All of my projects are available
-at [https://github.com/nakshCoder?tab=repositories] - 💬 Ask me about **UI/UX ,
-Bootstrap, SASS, JavaScript** - 📫 How to reach me **nakshusharm0@gmail.com**
+- 🌱 I’m currently learning **React JS** 
+- 👨‍💻 All of my projects are available at https://github.com/nakshCoder?tab=repositories 
+- 💬 Ask me about **UI/UX ,Bootstrap, SASS, JavaScript** 
+- 📫 How to reach me **nakshusharm0@gmail.com**
 
 <h3 style="text-align: left; font-family: sans-serif">Connect with me:</h3>
 <p style="text-align: left">
